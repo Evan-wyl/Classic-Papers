@@ -3,4 +3,4 @@ There are a good many classic papers of different regions in AI which the author
 
 
 ## The Related Notes of RL
-1. ![The common question and its solution]{1}
+1. ![The common question and its solution](1)
